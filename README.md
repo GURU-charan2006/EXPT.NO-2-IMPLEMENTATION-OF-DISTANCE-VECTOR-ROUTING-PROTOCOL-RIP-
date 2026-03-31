@@ -112,7 +112,6 @@ Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify netw
 <img width="928" height="911" alt="Screenshot 2026-03-25 201139" src="https://github.com/user-attachments/assets/382d59cd-62f9-4af0-b513-543d30d06cc7" />
 
 
-
 # RESULT:
 
 Thus the computers in multiple networks using Distance Vector Routing 
